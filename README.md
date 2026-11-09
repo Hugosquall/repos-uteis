@@ -6,3 +6,4 @@ Passo a passo dos repositórios que eu mostro nos Reels do [@hugodevqa](https://
 |---|---|
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [Auditoria de segurança com IA](security-audit-skill/README.md) |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [Ensaie a reação das pessoas com agentes de IA](mirofish/README.md) |
+| [google-research/harness2](https://github.com/google-research/harness2) | [Agente melhor sem treinar o modelo (Harness²)](harness2/README.md) |
